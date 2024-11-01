@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>blofin</title>
+    <g id="blofin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,0 L29.0526316,7.57894737 L29.0526316,22.7368421 L16,30.3157895 L2.94736842,22.7368421 L2.94736842,7.57894737 L16,0 Z M16,4 L6.94736842,9.57894737 L6.94736842,20.7368421 L16,26.3157895 L25.0526316,20.7368421 L25.0526316,9.57894737 L16,4 Z M16,8 C20.418278,8 24,11.581722 24,16 C24,20.418278 20.418278,24 16,24 C11.581722,24 8,20.418278 8,16 C8,11.581722 11.581722,8 16,8 Z" id="Combined-Shape" fill="#FF6B00"></path>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>safe-cex</title>
+    <g id="safe-cex" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="512" height="512"></rect>
+        <g id="Group" transform="translate(64.000000, 64.000000)">
+            <rect id="Rectangle" stroke="#000000" stroke-width="32" x="16" y="16" width="352" height="352" rx="32"></rect>
+            <circle id="Oval" fill="#000000" cx="192" cy="192" r="128"></circle>
+            <path d="M192,96 C244.5,96 288,139.5 288,192 C288,244.5 244.5,288 192,288 C139.5,288 96,244.5 96,192 C96,139.5 139.5,96 192,96 Z M192,128 C157.5,128 128,157.5 128,192 C128,226.5 157.5,256 192,256 C226.5,256 256,226.5 256,192 C256,157.5 226.5,128 192,128 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
